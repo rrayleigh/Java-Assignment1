@@ -1,2 +1,2 @@
 # Java-Assignment1
-Sum of two numbers
+Sum of two Java numbers
